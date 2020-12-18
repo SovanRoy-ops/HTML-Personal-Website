@@ -1,0 +1,18 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 90%;
+}
+
+h1,h3{
+  color: navy;
+}
+img{
+  height: 150px;
+}
